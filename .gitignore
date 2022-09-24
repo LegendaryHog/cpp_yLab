@@ -1,8 +1,0 @@
-*.out
-*.o
-*.txt
-*.in
-
-build/
-Makefile
-!CMakeLists.txt

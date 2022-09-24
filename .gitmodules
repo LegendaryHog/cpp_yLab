@@ -1,0 +1,3 @@
+[submodule "cashes"]
+	path = cashes
+	url = git@github.com:LegendaryHog/cashes.git
